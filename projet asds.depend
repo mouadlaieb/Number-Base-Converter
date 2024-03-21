@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670923069 source:c:\users\hi\desktop\projet asds\main.c
+	<stdio.h>
+	<stdlib.h>
+
